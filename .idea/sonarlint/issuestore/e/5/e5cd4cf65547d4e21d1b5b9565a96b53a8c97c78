@@ -1,0 +1,46 @@
+
+j
+java:S1192D"MDefine a constant instead of duplicating this literal "ĞÑ‚Ğ²ĞµÑ‚: " 4 times.(­¯ğë8Ùßª1
+•
+java:S1192"sDefine a constant instead of duplicating this literal "Ğ”Ğ»Ñ Ğ¿Ñ€Ğ¾Ğ´Ğ¾Ğ»Ğ¶ĞµĞ½Ğ¸Ñ Ğ½Ğ°Ğ¶Ğ¼Ğ¸Ñ‚Ğµ Enter" 6 times.(ëœÌõÿÿÿÿÿ8Ùßª1
+Ã
+java:S1192G" Define a constant instead of duplicating this literal "Ğ’Ñ‹ Ğ²Ğ²ĞµĞ»Ğ¸ Ğ½ĞµĞ´Ğ¾Ğ¿ÑƒÑÑ‚Ğ¸Ğ¼Ñ‹Ğµ Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ñ! ĞŸĞ¾Ğ¿Ñ€Ğ¾Ğ±ÑƒĞ¹Ñ‚Ğµ ĞµÑ‰Ğµ Ñ€Ğ°Ğ·.
+" 4 times.(¯‚óùÿÿÿÿ8Ùßª1
+W
+java:S11414"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Úßª1
+W
+java:S1141N"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Úßª1
+W
+java:S1141a"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Úßª1
+W
+java:S1141v"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Úßª1
+7
+java:S1220""Move this file to a named package.8Üßª1
+N
+java:S1153D"1Directly append the argument of String.valueOf().(­¯ğë8İßª1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(Çµí‘8„âª1
+
+java:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(´Ú’8…âª1
+K
+java:S1481")Remove this unused "stub" local variable.(áøàúùÿÿÿÿ8”âª1
+K
+java:S1481E")Remove this unused "stub" local variable.(†‡Ê„ùÿÿÿÿ8™âª1
+K
+java:S1481H")Remove this unused "stub" local variable.(†‡Ê„ùÿÿÿÿ8™âª1
+K
+java:S1481X")Remove this unused "stub" local variable.(†‡Ê„ùÿÿÿÿ8›âª1
+K
+java:S1481\")Remove this unused "stub" local variable.(†‡Ê„ùÿÿÿÿ8œâª1
+K
+java:S1481q")Remove this unused "stub" local variable.(†‡Ê„ùÿÿÿÿ8Ÿâª1
+L
+java:S1481")Remove this unused "stub" local variable.(†‡Ê„ùÿÿÿÿ8¢âª1
+L
+java:S1481„")Remove this unused "stub" local variable.(†‡Ê„ùÿÿÿÿ8£âª1
+L
+java:S1481‰")Remove this unused "stub" local variable.(†‡Ê„ùÿÿÿÿ8æ„ª1
+W
+java:S3400Í"9Remove this method and declare a constant for this value.(œúê¦8«âª1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 128 to 64, Complexity from 21 to 14, Nesting Level from 7 to 2, Number of Variables from 45 to 6.(Çµí‘8¬âª1
